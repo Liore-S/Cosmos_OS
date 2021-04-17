@@ -1,0 +1,9 @@
+D:\Important\OS\OS_PraUAS\PraUAS\PraUAS\bin\Debug\netcoreapp2.0\cosmos\PraUAS.deps.json
+D:\Important\OS\OS_PraUAS\PraUAS\PraUAS\bin\Debug\netcoreapp2.0\cosmos\PraUAS.dll
+D:\Important\OS\OS_PraUAS\PraUAS\PraUAS\bin\Debug\netcoreapp2.0\cosmos\PraUAS.pdb
+D:\Important\OS\OS_PraUAS\PraUAS\PraUAS\obj\Debug\netcoreapp2.0\cosmos\PraUAS.csprojAssemblyReference.cache
+D:\Important\OS\OS_PraUAS\PraUAS\PraUAS\obj\Debug\netcoreapp2.0\cosmos\PraUAS.AssemblyInfoInputs.cache
+D:\Important\OS\OS_PraUAS\PraUAS\PraUAS\obj\Debug\netcoreapp2.0\cosmos\PraUAS.AssemblyInfo.cs
+D:\Important\OS\OS_PraUAS\PraUAS\PraUAS\obj\Debug\netcoreapp2.0\cosmos\PraUAS.csproj.CoreCompileInputs.cache
+D:\Important\OS\OS_PraUAS\PraUAS\PraUAS\obj\Debug\netcoreapp2.0\cosmos\PraUAS.dll
+D:\Important\OS\OS_PraUAS\PraUAS\PraUAS\obj\Debug\netcoreapp2.0\cosmos\PraUAS.pdb
